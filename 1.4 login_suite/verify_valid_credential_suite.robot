@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation   This suite will handle valid credentail
+Documentation   This suite will handle valid details
 
 Resource     ../1.1 resource/commonfunctionality.resource
 
