@@ -15,5 +15,5 @@ Launch Browser
     Open Browser    browser=${BROWSER}
     Maximize Browser Window
     Set Selenium Implicit Wait    30s
-    Set Screenshot Directory    ${EXECDIR}${/}screenshots
+    Set Screenshot Directory    ${EXECDIR}${/}1.2 screenshots
     Go To    ${URL}
